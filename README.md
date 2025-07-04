@@ -31,7 +31,7 @@ pip install pillow
 
 
 
-img_path = "your_image.jpg"
+img_path = "playfulimg.jpg"
 
 
 
